@@ -45,23 +45,6 @@ https://user-images.githubusercontent.com/80636235/215860666-873b0869-aa22-4b39-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## Classification Report/Accuracy Matrix
-
-| Category/Class  | Precision | Recall | F1-Score | support |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| 0  | 0.91  | 0.97 | 0.94 | 105 |
-| 1  | 0.96  | 0.88 | 0.92 | 84 |
-|   |   |  |  |
-|   |   |  |  |
-accuracy |  |  | 0.93 | 189 |
-| macro avg  | 0.94  | 0.93 | 0.93 | 189 |
-| weighted avg | 0.93  | 0.93 | 0.93 | 189 |
-
-
-
-## Set Up For Development
-
-AILOEC was build over python version 3.7.6. But all the library supports any python version >=3.7.6. All other library's are available in requirements.txt which can be installed via command below. The API needs a seperate start if needed to start api over development server. Follow the steps mentioned in respected part. If any bug irritates you feel free raise a issue.
 
 ### Install packages or API:
 
@@ -77,34 +60,6 @@ $ uvicorn mlapi:app --reload
 
 For Testing The API different ways can be used either you can download PostMan Community Version for testing. Once you start the local server just add a route "\predict" at the end of your local host link. It might look as well
 
-```
-$ https:\\{Your IP}\predict
-```
-
-It requires a header which contains different details which will be given as user input via website and these will be used to predict the possiblity of fraud or not-fraud. A sample header which might look as follows:-
-
-```
-{
-    "NPPM": 1,
-    "LoanStatus": "existing loans paid back duly till now",
-    "Objective": "Purchase of radio/television",
-    "Amount": 1278,
-    "Guarantee": "none",
-    "Experience": "between 1 and 4 years",
-    "M_Status": "male and single",
-    "ExistingLoan": 1,
-    "Age": 36,
-    "CA_Balance": "no current account",
-    "SA_Balance": "less than 100",
-    "PI_Balance": 4,
-    "WorkAB": "Yes",
-    "PhNum": 0,
-    "Tenure": 24,
-    "prop": "Real Estate",
-    "JobTyp": "management/ self-employed/highly qualified employee/ officer",
-    "HouseT": "own",
-    "NOE": 1
-}
 ```
 
 
