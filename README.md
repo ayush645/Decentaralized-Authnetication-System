@@ -11,9 +11,6 @@
 </div>
 
 
-<!-- [![VISIT NOW]([https://i.imgur.com/ltoeZAt.png](https://user-images.githubusercontent.com/80636235/215766035-9725be67-246f-4c86-a2bb-ea5f251209b6.jpg))](https://www.youtube![Screenshot 2023-08-02 195316](https://github.com/ayush645/Luganodes/assets/80757890/8a5b0d84-de86-4941-b497-0193739bf5fa)
-.com/watch?v=XfDXwT79xRA) -->
-<p align="Center"><a href="https://loan-eligibility.onrender.com/" > 🌐 Visit Me Now 🌐</a></p>
 
 
 <!-- [![Watch the video]([https://i.imgur.com/ltoeZAt.png](https://ibb.co/YbwMNDk))] -->
@@ -22,7 +19,6 @@
 User management dashboard with multi-authentication with Email/Password and Web3 authentication
 
 
-https://user-images.githubusercontent.com/80636235/215860666-873b0869-aa22-4b39-9bcb-9daf70f1d60e.mp4
 
 
 ## Tech Stack Used
