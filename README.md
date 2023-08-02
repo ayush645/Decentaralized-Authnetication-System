@@ -1,4 +1,7 @@
 
+![Screenshot 2023-08-02 195316](https://github.com/ayush645/Luganodes/assets/80757890/17adb753-4826-4c26-b0f6-355710889519)
+
+
   <h1><p align="center"><b><b>User Management System</b></b>
 </p></h1>
 
