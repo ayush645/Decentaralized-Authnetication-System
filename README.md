@@ -1,5 +1,5 @@
 
-  <h1><p align="center"><b><b>AILOEC - AI Based Loan Eligiblity Predictor</b></b>
+  <h1><p align="center"><b><b>User Management System</b></b>
 </p></h1>
 
 <div align="center">
@@ -20,12 +20,9 @@
 <!-- [![Watch the video]([https://i.imgur.com/ltoeZAt.png](https://ibb.co/YbwMNDk))] -->
 ## Understanding Problem Statement
 
-Our Taks is to make a fully deployed webstie that will take various details from the used and then provide an accurate prediction of their scope of repaying the loan
-We were give with up training data which is available at :- Task1DataSet. Website is accepting all the inputs in same fashion which is given in dataset
+User management dashboard with multi-authentication with Email/Password and Web3 authentication
 
 
-## Motive
-In today’s world of recession and uncertain economy following the pandemic, it is vital to have healthy and sustainable financing no matter who you are. A big part in ensuring this is to stay clear of risky loan traps and prevent taking on unsustainable debts. A smart individual would diligently measure the amount and purpose of each loan against their own specific information to determine their ability to pay the loan back. There is certainly a large scope for programs and algorithms that can help in making this decision with high accuracy.
 
 <!-- ## Why Streamlit?
 Streamlit is a free and open-source framework to rapidly build and share beautiful machine learning and data science web apps. It is a Python-based library specifically designed for machine learning engineers. Data scientists or machine learning engineers are not web developers and they're not interested in spending weeks learning to use these frameworks to build web apps. Instead, they want a tool that is easier to learn and to use, as long as it can display data and collect needed parameters for modeling. Streamlit allows you to create a stunning-looking application with only a few lines of code.
