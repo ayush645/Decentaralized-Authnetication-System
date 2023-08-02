@@ -43,11 +43,11 @@ User management dashboard with multi-authentication with Email/Password and Web3
 
 ### How to  run:
 
-#Backend
+# Backend
 1. cd server
 2. npm run dev
 
-#frontend
+# frontend
 1. cd client
 2. npm start
 
