@@ -9,6 +9,7 @@
   <a href="">![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)</a>
   <a href="">[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.com/package/express)</a>
 </div>
+![Screenshot 2023-08-02 195316](https://github.com/ayush645/Luganodes/assets/80757890/89d13e7c-9957-4116-bff0-cb3b512fe8ab)
 
 
 
